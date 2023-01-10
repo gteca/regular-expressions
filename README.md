@@ -67,4 +67,4 @@ Ex: Th**e** fat cat runs down th**e** str**ee**t.
 {3,4}   - Range of Numbers (Minimum, Maximum)
 
 ## Aditional Resources
-(RegexOne)[https://regexone.com/lesson/introduction_abcs]
+[RegexOne](https://regexone.com/lesson/introduction_abcs)
