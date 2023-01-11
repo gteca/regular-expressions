@@ -20,7 +20,7 @@ Matches anything from ```a``` to ```z``` followed by ```at```.
 - Example: ```[0-9]th```.
 Matches anything from ```0``` to ```9``` followed by ```th```.
 
-![image](https://user-images.githubusercontent.com/26907925/211917169-f9cd07b9-0bfa-4a6d-86b6-9ecaa125abb1.png)
+![image|100x100](https://user-images.githubusercontent.com/26907925/211917169-f9cd07b9-0bfa-4a6d-86b6-9ecaa125abb1.png)
 
 
 Specify the range of character or digits to match.
