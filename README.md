@@ -1,7 +1,30 @@
 # regular-expressions
-How to understund regular expressions
 
-Build, text and debug regex [regex101](https://regex101.com/)
+Build, test and debug regex [regex101](https://regex101.com/)
+
+## Character Set
+
+The set of character that we want to match is placed in brackets ```[]```.
+- Example: ```[bcf]at```.
+Matches anything that starts with ```b```, ```c```, ```f``` and followed by ```at```.
+
+![image](https://user-images.githubusercontent.com/26907925/211916186-1ca1d3c2-624a-477a-bc36-c29155d82c48.png)
+
+## Ranges
+The range of character that we want to match is placed in brackets separated by dash ```[]```.
+- Example: ```[a-z]at```.
+Matches anything from ```a``` to ```z``` followed by ```at```.
+
+![image](https://user-images.githubusercontent.com/26907925/211917697-8592a720-1d70-4839-8949-a0dd9c025aff.png)
+
+- Example: ```[0-9]th```.
+Matches anything from ```0``` to ```9``` followed by ```th```.
+
+![image](https://user-images.githubusercontent.com/26907925/211917169-f9cd07b9-0bfa-4a6d-86b6-9ecaa125abb1.png)
+
+
+Specify the range of character or digits to match.
+
 
 .       - Any Character Except New Line
 
