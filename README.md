@@ -129,7 +129,7 @@ You may have noticed that some positive matches are a result of partial matching
 
 - ```$``` Placed at the end, this character matches a pattern at the end of the string.
 
-     - Example: ```[ltb]ook$``` Matches both any sentence that starts with ```l```, ```b``` or ```b``` followed by ```oo``` **ending** with ```k``` (the end of the sentence, last sentence of the line).
+     - Example: ```[ltb]ook$``` Matches both any sentence that starts with ```l```, ```b``` or ```b``` followed by ```ook``` and **ending** with a new line.
      
 ![image](https://user-images.githubusercontent.com/26907925/211945134-d955f3ce-357e-4672-a9a1-850dfbbb49ab.png)
 
